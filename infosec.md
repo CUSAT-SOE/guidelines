@@ -7,7 +7,7 @@ The [Rajappan Project](https://rajappan.kaiiyer.ninja/) is an All in one Securit
 Visit the github [repo](https://github.com/kaiiyer/rajappan) to get started.
 
 Still confused?
-Read this blog to understand about Digital Privacy](https://hackernoon.com/why-you-have-no-choice-but-care-about-privacy-rx8s3vwa)
+Read this blog to understand about [Digital Privacy](https://hackernoon.com/why-you-have-no-choice-but-care-about-privacy-rx8s3vwa)
 
 ### What are we gonna do in 30 days?
 - Basic Linux Administration
