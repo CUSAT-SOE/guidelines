@@ -17,6 +17,7 @@ Visit [Github Education](https://education.github.com/pack/)
 ### 3. Get your Hack Pack
 Visit [Hack Pack](hack.af/pack) and apply using your github account and select 30 days of code in the Hackathon List to get your hack pack & swags
 
+### Guidelines
 We have guidelines for every tech stack. You can use the links provided below to navigate to the respective stack's guidelines page.
 
 - [Web Development](web.md)
