@@ -1,6 +1,8 @@
 # GUIDELINES for 30 Days of Code
 Connect | Create | Learn
 
+We've successfully completed 30 Days of Code. Therefore archiving this repo!
+
 ## Welcome aboard everyone!
 
 To let us know that you've checked in star the repo and comment on the [issue](https://github.com/CUSAT-SOE/guidelines/issues/1)
